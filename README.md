@@ -38,19 +38,28 @@ For PSK:
 6. Observe various waveforms as mentioned below.
    
 ## CIRCUIT DIAGRAM
+
 ![Screenshot 2025-04-06 182907](https://github.com/user-attachments/assets/7d49490a-052e-4e1c-9c2e-d0ad8a27c6b7)
+
 ![Screenshot 2025-04-06 182921](https://github.com/user-attachments/assets/f670dca1-df26-4dbe-9147-39f6209b4858)
+
 ## MODEL GRAPH
+
 ![Screenshot 2025-04-06 190727](https://github.com/user-attachments/assets/45b4ae39-0e8f-41af-9b1b-81c8a8291311)
+
 ![Screenshot 2025-04-06 190744](https://github.com/user-attachments/assets/6fd5c58a-b9cc-4828-b5cf-18f5c003c12e)
+
 ![Screenshot 2025-04-06 190827](https://github.com/user-attachments/assets/6ce23be8-9cd2-4b21-b64f-2374706ee9bd)
 
 ## TABLE
 ![scanned image digital modulation](https://github.com/user-attachments/assets/ca0ee5ff-ac88-4841-aed5-acaf1cc126da)
 
 ## OUTPUT GRAPHS
+
 ![Screenshot 2025-04-06 192336](https://github.com/user-attachments/assets/5de92c03-fdf1-492a-8ac9-42da6d235937)
+
 ![Screenshot 2025-04-06 192344](https://github.com/user-attachments/assets/a21fa8fe-4c3e-4213-90c1-fc9ac6e77ee7)
+
 ![Screenshot 2025-04-06 192351](https://github.com/user-attachments/assets/de983b5b-aa3c-4e3f-825a-af968ac84381)
 
 ## RESULT 
